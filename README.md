@@ -28,9 +28,3 @@ No installation required! Infinite Breakout is a web-based game that runs direct
 ## Development
 
 This game is built using HTML5 Canvas and JavaScript, showcasing dynamic content creation, collision detection, and responsive design principles.
-
-## License
-
-This project is open-source and available under the GNU General Public License version 3 (GPL-3.0). The GPL-3.0 is a copyleft license that requires anyone who distributes your code or a derivative work to make the source available under the same terms.
-
-For more details, see the GPL-3.0 License.
