@@ -323,5 +323,5 @@ function transitionBricksAndCheckColumns() {
     lastBrickColumn -= 1;
     num_transitions += brickWidth + brickPadding;
     lastBrickColumnAux -= 1;
-  }
+  } 
 }
